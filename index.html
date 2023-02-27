@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ColorMC</title>
+    <script src="https://cdn.staticfile.org/jquery/3.6.3/jquery.min.js"></script>
+</head>
+
+<body>
+    <h1>ColorMC</h1>
+    <button id="button1">下载Windows版本</button>
+    <button id="button2">下载Ubuntu amd64版本</button>
+    <button id="button3">下载Ubuntu arm64版本</button>
+    <button id="button4">下载Arch版本</button>
+    <button id="button5">下载macOs版本</button>
+
+    <img src="/pic.png"  alt="介绍图片" />
+</body>
+
+<script>
+    $("#button1").click(function () {
+        window.open("/colormc/win64-dotnet.7z");
+    });  
+    $("#button2").click(function () {
+        window.open("/colormc/colormc-linux-amd64.deb");
+    });  
+    $("#button3").click(function () {
+        window.open("/colormc/colormc-linux-arm64.deb");
+    });  
+    $("#button4").click(function () {
+        window.open("/colormc/colormc-1-1-x86_64.pkg.tar.zst");
+    });  
+    $("#button5").click(function () {
+        window.open("/colormc/ColorMC-osx64.pkg");
+    });  
+</script>
+
+</html>
