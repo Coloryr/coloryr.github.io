@@ -1,7 +1,7 @@
 {
     "core.dll": "e00a1f8404663b31db0ff49004c7a3bb5bf3242d",
     "core.pdb": "f309a2e237227a66f78cd978f6d349606e7477e9",
-    "gui.dll": "6dd49a9428ce8aa763ff98059f743c41d8a8a87b",
-    "gui.pdb": "ddb4dd7e94fa8cb40e85ac77a3efc38d2f6a76d6",
+    "gui.dll": "9bfabb1288ac1a87f6f888d72a8106469aedf54a",
+    "gui.pdb": "b4f4512317eb897eb016463378b5329aa0417965",
     "text": "A16:20230416\n修复Mod补全前置问题\n修复Motd不刷新问题\n添加CoreMod的识别\n添加Mod重复检测"
 }
