@@ -1,7 +1,7 @@
 {
-    "core.dll": "e00a1f8404663b31db0ff49004c7a3bb5bf3242d",
-    "core.pdb": "f309a2e237227a66f78cd978f6d349606e7477e9",
-    "gui.dll": "9bfabb1288ac1a87f6f888d72a8106469aedf54a",
-    "gui.pdb": "b4f4512317eb897eb016463378b5329aa0417965",
-    "text": "A16:20230416\n修复Mod补全前置问题\n修复Motd不刷新问题\n添加CoreMod的识别\n添加Mod重复检测"
+    "core.dll": "590fbf6304cd9bd81062eaf0403a4cb6affed346",
+    "core.pdb": "8b4b783ef473e059f85707e530c818d3a3a64576",
+    "gui.dll": "2fcbbbfc51d4a4ed233e3301fdfcf28f327bf4b6",
+    "gui.pdb": "8a58761f61128347389e377fa2abcead547c3ee6",
+    "text": "A16:20230417\n修复macos的皮肤显示问题\n修复UI存在的bug\n调整版本排序问题\n\nA16:20230416\n修复Mod补全前置问题\n修复Motd不刷新问题\n添加CoreMod的识别\n添加Mod重复检测"
 }
