@@ -1,0 +1,7 @@
+{
+    "core.dll": "d6547232e6f0b37d0ed7ce68c42b06c9434a1895",
+    "core.pdb": "73e4c3f4a2cdab229683464f1813cc9c2b22083c",
+    "gui.dll": "6906d3d4efe8ae5a0067358182706ebcefcf2c53",
+    "gui.pdb": "4101656182f9ab275cd1237ee87a9867fbe217ef",
+    "text": "A19.1.20230721\n修复Motd错误\n\nA19.1.20230720\n修复NeoForge启动\n添加Sha1校验开关\n\nA19.1.20230715\n添加NeoForge支持\n添加主界面镜像选择\n添加按钮圆角程度修改\n修改自定义UI\n修复导入文件夹的bug\n修复添加实例时mod加载器版本选择问题\n\nA19.1\n升级运行库\n调整UI\n修复fabric的Mod依赖错误\n添加JarInJar的识别\n添加依赖禁用Mod\n修复更新Mod时禁用的Mod不会删除的问题"
+}
