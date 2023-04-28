@@ -1,7 +1,7 @@
 {
-    "core.dll": "4eee85b75ec69f6be4a9bb78a2a956eee62e0c45",
-    "core.pdb": "670eb3e32e5bf589423f9ce9d6cab40e5dd621b7",
-    "gui.dll": "24687b901d9394b0091a3b341b78c31bdfa7738c",
-    "gui.pdb": "1068d7ebc4163ebf8a566be9c5aefedd41f69b61",
-    "text": "A17.230424\n修复RGB模式的问题"
+    "core.dll": "b372f540fd160c27088ff69e9dda0a9e8e276823",
+    "core.pdb": "fbb865f53da1dc1e2d4101f67c84c2d091d6926a",
+    "gui.dll": "9ab80897025d5ef55c2db66c2f4a9334e04287c3",
+    "gui.pdb": "3744dba9e7ab719a52909481361b88b42215d6c2",
+    "text": "A17.230428\n添加Java自动查找\n添加游戏时间\n调整程序多开逻辑\n\nA17.230424\n修复RGB模式的问题"
 }
