@@ -1,7 +1,7 @@
 {
     "core.dll": "2be2311336641b451cd892f73e3398bb311a5896",
     "core.pdb": "118c0f7857f484831bd37b93ce8476339be4d8e3",
-    "gui.dll": "051351ba2a5f588d5e2f03ab3dbb9cea038954a5",
-    "gui.pdb": "dec6567120e95d7d0485980e9dc6e3fc55878a72",
-    "text": "A20.20230924\n修复一些文件"
+    "gui.dll": "b8c6e4e95bde036bd3ef0392a8c3a50a61475dde",
+    "gui.pdb": "a8546a25074c64a5d5647f6db3cc83b82ead45d5",
+    "text": "A20.20230924\n修复一些问题"
 }
