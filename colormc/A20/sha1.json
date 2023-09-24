@@ -1,7 +1,0 @@
-{
-    "core.dll": "3b37bb493bbe2470130b0d00ded268d1199c13b2",
-    "core.pdb": "861a24c2a4696e49ce34245ff0fdf5e3694a7455",
-    "gui.dll": "c8d51543090b940a284d668d19e2a274eff6c21b",
-    "gui.pdb": "9eb4f669705e568ae3c95913e4a5a73091cb032b",
-    "text": "A20.20230924\n修复一些问题"
-}

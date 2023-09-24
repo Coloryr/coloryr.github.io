@@ -1,7 +1,0 @@
-{
-    "core.dll": "885cf4b3df5c302210b9f6269e350646706c6233",
-    "core.pdb": "f8df35c2c535009d95c52f3e331c439b47833bd7",
-    "gui.dll": "0683229e188e5dcf78ea4187f836a33201a14086",
-    "gui.pdb": "f0ae15e7f66b3cc2b885f43a1fd774b23bb0aaa9",
-    "text": "A18:230508\n\n修复bug\n调整mod多选\n调整mod依赖选择"
-}

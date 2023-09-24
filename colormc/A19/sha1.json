@@ -1,7 +1,0 @@
-{
-    "core.dll": "f247ca73d0579538020dea130761afd8ba52eca5",
-    "core.pdb": "c1203c57ac39f4a3b6ceea40b165e1a3cf38820f",
-    "gui.dll": "2420cfaa18618e05a3dbe55edc280d4d57ade15e",
-    "gui.pdb": "8e8229a2f55e4db8ac3e06c8f699c52c1cbbee70",
-    "text": "A19.2023629\n添加启动游戏后音乐暂停\n修复登录问题\n调整forge启动逻辑\n\nA19.20230627\n添加世界启动游戏\n修改1.20的进服设置\n\nA19.20230624\n修复mmc压缩包导入问题"
-}

@@ -1,7 +1,0 @@
-{
-    "core.dll": "6a96a1fe0e5568b79bc5a92f51023686f025615b",
-    "core.pdb": "7b875a40bd534b52f44dd99d971c0bf15ff88d7d",
-    "gui.dll": "b3274e2b5c6bb50ffb2c7b5787c2274870cfff6f",
-    "gui.pdb": "0158dca9e18a116ce484f91d9424dd3918d3d1a0",
-    "text": "A19.2.20230726\n补充缺失的运行库"
-}

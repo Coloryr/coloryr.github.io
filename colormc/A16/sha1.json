@@ -1,7 +1,0 @@
-{
-    "core.dll": "4cf6d499cf5ef5e70f8d1c2424e1893e65618452",
-    "core.pdb": "27d09722dcf1dc7b5c1eadb43cad2238c17d96e8",
-    "gui.dll": "f6db43386d0f86f0b5e4cfd39c612e7046d3e9d8",
-    "gui.pdb": "1fae698fe54c0eada32db13c757e0c467f51ea42",
-    "text": "A16:20230423\n修复mod检测问题\n\nA16:20230419\n修复FTB整合包下载内容缺失的bug\n\nA16:20230417\n修复macos的皮肤显示问题\n修复UI存在的bug\n调整版本排序问题\n\nA16:20230416\n修复Mod补全前置问题\n修复Motd不刷新问题\n添加CoreMod的识别\n添加Mod重复检测"
-}
